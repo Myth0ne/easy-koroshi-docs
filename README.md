@@ -17,7 +17,7 @@ node.js is required for this tool on the machine you are running this on. For mo
 
 
 8.	Go to your machine whether you do this locally or ssh into another remote device on your network.
-10.	Copy or download the files here - https://github.com/0xMesiya/easy-koroshi
+10.	Copy or download the files here - [https://github.com/0xMesiya/easy-koroshi](https://github.com/0xMesiya/easy-koroshi/tree/barebones)
 11.	Navigate to the directory in a terminal of your choice
 12.	Run ```npm install```
 13.	create a file called “.env” in the text editor of your choice
