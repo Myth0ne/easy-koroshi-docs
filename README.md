@@ -1,5 +1,7 @@
 ## Pre requisites
-is that you have node.js installed on the machine you are running this on. For more info go here to install - https://nodejs.org/en/download 
+node.js is required for this tool on the machine you are running this on. For more info go here to install - https://nodejs.org/en/download 
+
+## Install instructions
 1.	Navigate to https://www.thekoroshi.com/realm
 2.	Press F12 or right click page -> Inspect
 3.	Change to Network tab
