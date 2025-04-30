@@ -21,6 +21,5 @@ node.js is required for this tool on the machine you are running this on. For mo
 11.	Navigate to the directory in a terminal of your choice
 12.	Run “npm install”
 13.	create a file called “.env” in the text editor of your choice
-14.	paste the cookie string you got from step 5, save .env file
-a.	the file should look like this “CONNECT_SID='xxxxx'
+14.	paste the cookie string you got from step 5, save .env file. The file should look like this “CONNECT_SID='xxxxx'"
 15.	run the tool by running the command ‘node main.js’
