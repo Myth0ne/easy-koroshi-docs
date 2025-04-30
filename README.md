@@ -19,7 +19,7 @@ node.js is required for this tool on the machine you are running this on. For mo
 8.	Go to your machine whether you do this locally or ssh into another remote device on your network.
 10.	Copy or download the files here - https://github.com/0xMesiya/easy-koroshi
 11.	Navigate to the directory in a terminal of your choice
-12.	Run “npm install”
+12.	Run ```npm install```
 13.	create a file called “.env” in the text editor of your choice
-14.	paste the cookie string you got from step 5, save .env file. The file should look like this “CONNECT_SID='xxxxx'"
-15.	run the tool by running the command ‘node main.js’
+14.	paste the cookie string you got from step 5 into the .env file, save .env file. The file should look like this ```CONNECT_SID='xxxxx'```
+17.	run the tool by running the command ```node main.js```
